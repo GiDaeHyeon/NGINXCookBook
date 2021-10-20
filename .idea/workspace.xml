@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d41f4b7b-6568-4dc3-9dd9-72ecb8521827" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 1. nginx 기초/nginx.conf" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 1. nginx 기초/nginx.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 1. nginx 기초/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 1. nginx 기초/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633532335093</updated>
-      <workItem from="1633532338237" duration="2463000" />
+      <workItem from="1633532338237" duration="3203000" />
     </task>
     <servers />
   </component>
